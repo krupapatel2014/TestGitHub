@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Manish
 Manish
 Manish
+=======
+testing files details..........
+>>>>>>> 7cee0598a9faf3819b52ba1e2f30e93404f5be08
